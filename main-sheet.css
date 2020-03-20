@@ -45,6 +45,11 @@ body {
     font-size: 18px;
 }
 
+#game-screen {
+    width: 100px;
+    height: 100px;
+}
+
 li {
     list-style: none;
 }
