@@ -39,6 +39,12 @@ body {
     font-size: 50px;
 }
 
+.header-list {
+    float: right;
+    padding-right: 15px;
+    font-size: 18px;
+}
+
 li {
     list-style: none;
 }
